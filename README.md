@@ -91,7 +91,7 @@ All documentation on interacting with our API is available at the following link
 
 ## Information for Developers
 
-Our project you can find at [https://github.com/NightSpring1/InstaLike_PhotoSharing/](https://github.com/NightSpring1/InstaLike_PhotoSharing/). The documentation may be useful to other developers who
+Original project with all history of commits you can find here -> [https://github.com/NightSpring1/InstaLike_PhotoSharing/](https://github.com/NightSpring1/InstaLike_PhotoSharing/). The documentation may be useful to other developers who
 can use it to develop our project.
 
 ## License
